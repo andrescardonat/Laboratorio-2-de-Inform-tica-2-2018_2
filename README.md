@@ -1,3 +1,3 @@
-lab2_20182
+laboratorio2_20182
 
 

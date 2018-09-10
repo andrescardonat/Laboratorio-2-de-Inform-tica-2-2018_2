@@ -3,8 +3,8 @@
 *  Prof: Juan Camilo Correa Chica
 *  Fecha: Agosto 27/2018 - Septiembre 3/2018
 *  Plazo máximo para enviar enlace para clonar el repositorio: NO definido aun
-*  Estudiante1: Nombres y apellidos completos
-*  Estudiante2: Nombres y apellidos completos (Opcional, puede trabajar individualmente)
+*  Estudiante1: Andres David Cardona Tamayo
+*  Estudiante2: Esteban Donelly Ochoa
 *  Fecha del ultimo Commit en GitHub: Agregue la fecha y hora del ultimo Commit (aproximada)
 *
 * 1. Declare una estructura global con 6 miembros de distinto tipo y en este orden (con sus miembros inicializados):
